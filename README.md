@@ -1,5 +1,5 @@
-#Seeker#1
+#Wave#2
 > [Behrooz Tahanzadeh](http://b-tz.com)<br/>
-> Sep 2014
+> Oct 2014
 
-a [Github page](http://behrooz-tahanzadeh.github.io/seeker-1/)<br/>
+a [Github page](http://behrooz-tahanzadeh.github.io/wave-2/)<br/>
