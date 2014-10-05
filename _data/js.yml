@@ -1,0 +1,6 @@
+- src: "assets/js/jquery.min.js"
+- src: "assets/js/Point2D.js"
+- src: "assets/js/Keyboard.js"
+- src: "assets/js/MouseTracker.js"
+- src: "assets/js/Seeker.js"
+- src: "assets/js/Main.js"
